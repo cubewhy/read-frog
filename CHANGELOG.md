@@ -1,5 +1,13 @@
 # @read-frog/extension
 
+## 1.24.1
+
+### Patch Changes
+
+- [#924](https://github.com/mengxi-ream/read-frog/pull/924) [`d7e8c23`](https://github.com/mengxi-ream/read-frog/commit/d7e8c235c17709f7b4a872dffee6a549a0013ff0) Thanks [@sdxdlgz](https://github.com/sdxdlgz)! - fix(subtitles): auto-hide error state and harden YouTube fetcher
+
+- [#914](https://github.com/mengxi-ream/read-frog/pull/914) [`79f8702`](https://github.com/mengxi-ream/read-frog/commit/79f870279e014f6f38f739eae06c1a6b00e8e6e1) Thanks [@taiiiyang](https://github.com/taiiiyang)! - fix: handle unknown HTTP error status in YouTube subtitle fetcher
+
 ## 1.24.0
 
 ### Minor Changes
